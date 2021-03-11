@@ -1,0 +1,10 @@
+1.Transfer edilecek dosyanin boyutu degismemis ise,
+2.Cache de bulunan sayfa zaman asimina ugramadiysa [expired]
+
+bu ve bunun gibi kurallar dahilinde cache kullanilmasinda fayda vardir.
+
+ISA Server 3 degisik chaching metodu kullanir.
+
+1.Forward Caching
+2.Reverse Caching
+3.Distributed Caching [Her networkde karsilasilabilecek chache metodu degildir.]
